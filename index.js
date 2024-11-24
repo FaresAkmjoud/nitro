@@ -1,6 +1,6 @@
 const { Client, Intents, Collection } = require("discord.js");
 const token =
-  "MTMwOTg5NzIzODY1NDIyNjQ5Mw.G6dQZO.VRUuukUrivnLozoAZOyRg3LHWQhn5V51FWTD9c";
+  "MTMwOTg5NzIzODY1NDIyNjQ5Mw.GX9MoZ.prE70Jn3ymNfbU_p2J5IiK7oDBmuAVIb90MB8c";
 const allowedChannelId = "1309899804868083765";//ايدي روم يلي هتولد فيها
 const premiumRoleId = "1308759818068299827";// ايدي رول البريميوم
 const cooldowns = new  Collection();
